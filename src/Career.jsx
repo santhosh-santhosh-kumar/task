@@ -61,7 +61,7 @@ export function Career() {
               <div className="card-body">
                 <h4>Best Product-Based Companies for Game Developers in 2023</h4>
                 <p className="card-text">
-                The world of game development has been booming in recent years as the importance of
+                The world of game development has been booming in recent years
                 </p>
                 <p className="read">READ MORE &gt;&gt;</p>
               </div>
