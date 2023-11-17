@@ -92,10 +92,10 @@ export function Data() {
 export function TopData() {
   return (
 <>
-<div class="card splCard">
+<div class="card splCard card1">
   <div class="card-body">
-    <h1>Data Science</h1>
-   <p className="data">One of the most propelling careers on the planet today, Data Science is a vast arena of diverse technologies and techniques. Are you ready to step into the world of Data? Then you probably should not miss this corner of articles that is an assorted curation out of tedious research & exploration.</p>
+    <h1>Become a Data Science Professional with IIT Certification in Advanced Programming</h1>
+   <p className="data">Build a progressive career in Data Science with 100% Job Placement Support of Zen-Class. Get hand-on experience by working on Real-time Projects from IIT-M recognized institute of excellence.</p>
    <p className="data">The GUVI Blog’s Data Science category is here to help you steer through a lot of opinions that float on the internet. High-Quality content curated by experts!</p>
   </div>
 </div>

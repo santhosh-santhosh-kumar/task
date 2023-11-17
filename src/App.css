@@ -6,7 +6,7 @@ img{
   height: 200px !important;
 }
 .card{
-  margin-top: 20px;
+  margin-top: 0px;
   height: 400px !important;
 }
 .read{
@@ -28,7 +28,7 @@ body{
 }
 .container-fluid{
   text-align: center !important;
-  margin-left: 280px !important;
+  margin-left: 200px !important;
 }
 #topNav{
 margin-right: 300px;
@@ -41,7 +41,7 @@ margin-right: 300px;
 }
 .topImg{
   width: 100% !important;
-  height: 300px !important;
+  height: 280px !important;
 }
 .splCard{
   height:280px !important;
@@ -52,4 +52,30 @@ background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);;
 }
 .data{
   margin-top: 30px !important;
+  font-weight: bolder !important;
+}
+.guvi{
+  background: rgba(0, 0, 0, 0.944) !important;
+  color: rgba(245, 245, 245, 0.709) !important;
+
+}
+.guviImage{
+  width: 150px;
+  height: 100px !important;
+}
+.col-md-4{
+  margin-top: 20px !important;
+}
+.splCard{
+ border: none !important;
+}
+.card1{
+  font-weight: bolder;
+}
+.navImage{
+  width: 100px !important;
+  height: 50px !important;
+}
+.navImage{
+  margin-right: 300px;
 }

@@ -102,7 +102,18 @@ export function All() {
 export function All1() {
    return (
     <>
-     <img src="https://www.guvi.in/blog/wp-content/uploads/2022/10/blog-header.png" className="topImg"></img>
+<div class="card splCard guvi">
+  <div class="card-body">
+  <h1> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj2Uja0UcnkZnpUBbQUClf97rl3XEpWjb5Tg&usqp=CAU" className="guviImage"></img> GUVI</h1>
+   <h1>Tech Career Programs</h1>
+   <ul>
+    <li>100% Job Placement Support.</li>
+    <li>Mentors from Top Global Product companies</li>
+    <li>A Portfolio of Real-world Projects.</li>
+   </ul>
+  </div>
+</div>
+
      </>
    )
  }
